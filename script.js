@@ -1,1 +1,6 @@
-console.log("Social IFPI iniciado");
+function mostrarMensagemInicial() {
+  alert("Bem-vindo ao Social IFPI!");
+}
+
+mostrarMensagemInicial();
+
